@@ -1,5 +1,5 @@
 
-from data_import.__dataimport__ import find_num_and_visualize
+from data_import.dataimport import find_num_and_visualize
 import matplotlib.pyplot as plt
 
 def main():
